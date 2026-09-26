@@ -1,6 +1,19 @@
 # EnergyMesh
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+EnergyMesh is a decentralized energy resilience platform designed to help businesses respond to major energy disruptions by connecting fragmented suppliers, storage providers, transportation capacity, terminals, and energy buyers into a coordinated network.
+
+# The Problem
+
+Critical energy corridors such as the Strait of Hormuz connect major energy producers with global markets. A prolonged disruption can create much more than a transportation problem.
+
+Businesses may face:
+>Energy supply shortages
+>Increasing energy prices
+>Unused or inaccessible infrastructure capacity
+>Contract disruptions
+>Longer lead times
+>Dependency on a small number of routes or suppliers
+>Difficulty coordinating alternative suppliers and infrastructure
 
 ## Getting Started
 
